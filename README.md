@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=midnightdoggo19)
+![Visitor Count](https://profile-counter.glitch.me/midnightdoggo19/count.svg)
 
 <!--
 **midnightdoggo19/midnightdoggo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
